@@ -1,4 +1,4 @@
-<h4>This project aims to present how to create a Spring MVC + JPA/Hibernate Web application.<h4>
+<h4>This project aims to present how to create a Spring MVC + JPA/Hibernate Web application.</h4>
 
 Designed and developed a hospital management system using Java/J2EE, Spring MVC, and Hibernate ORM.
 The application helps in managing patients by helping them  to register and book appointements. It allows the admin to easily delete or update any records
