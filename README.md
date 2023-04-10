@@ -14,3 +14,8 @@ J2EE, Spring MVC, Hibernate, Maven, HTML, CSS, Bootstrap, JQuery, AJAX
 
 Tools/IDE
 Spring Tool Suite, Eclipse, Dreamweaver, MySQL, SQL Workbench
+
+
+<div align="center">
+    <img src="example.svg" width="400" height="400" alt="css-in-readme">
+</div>
