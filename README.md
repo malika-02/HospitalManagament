@@ -17,5 +17,6 @@ Spring Tool Suite, Eclipse, Dreamweaver, MySQL, SQL Workbench
 
 
 <div align="center">
-    <img src="example.svg" width="400" height="400" alt="css-in-readme">
+   Tools/IDE
+    <h2>Spring Tool Suite, Eclipse, Dreamweaver, MySQL, SQL Workbench</h2>
 </div>
